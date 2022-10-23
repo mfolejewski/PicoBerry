@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+E:\CM4_PicoBerry\Project Outputs for PicoBerry_V1.0\Pick Place for PicoBerry_V1.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01.11.21
+Time:       02:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Center-X(mm)","Center-Y(mm)","Rotation","Layer","Footprint","MPN","Description"
+"C900","100uF/6V3","57.3500","3.7500","360","TopLayer","CAP_1206_R","GENERIC","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 1206 (3216);"
+"J100","40pin (2x20pin)","32.5000","16.5000","360","TopLayer","CON_HDR_P254_2X20M_STR","GENERIC","Connector; 2 Row;"
+"J103","Mezzanine, 100pin, 3.0mm","30.0000","8.9500","0","TopLayer","PCB_BLANK_COMP_SMD","DF40HC(3.0)-100DS-0.4V","BOM list; Connector;"
+"J200","U262-161N-4BVC11","66.0875","7.7501","90","TopLayer","CON_XKB_U262-161N-4BVC11","U262-161N-4BVC11","Connector; USB 3.1 Type C; Receptacle; 24-pin; USB 2.0 Only;"
+"LED100","Red","1.4000","11.3500","270","TopLayer","LED_0805_RED_R","NCD0805R1","Diode; LED; Red;"
+"LED101","Green","3.3000","11.3500","270","TopLayer","LED_0805_GRN_R","NCD0805G1","Diode; LED; Green;"
+"LED800","Green","66.6000","17.1500","180","TopLayer","LED_0805_GRN_R","NCD0805G1","Diode; LED; Green;"
+"LED801","Red","66.6000","15.2500","180","TopLayer","LED_0805_RED_R","NCD0805R1","Diode; LED; Red;"
+"LED900","Green","3.3000","3.5500","90","TopLayer","LED_0805_GRN_R","NCD0805G1","Diode; LED; Green;"
+"MECH952","M2.5, L = 3.0mm","56.5000","8.5000","180","TopLayer","PCB_WRT_9774030151","977 403 015 1","PCB; Mechanical; SMT Steel Spacer; M2.5;"
+"MECH953","M2.5, L = 3.0mm","8.5000","8.5000","180","TopLayer","PCB_WRT_9774030151","977 403 015 1","PCB; Mechanical; SMT Steel Spacer; M2.5;"
+"Q902","DTA143ZE","15.2500","10.5000","180","TopLayer","PKG_SOT523_SC75_SOT416_P100_R","DTA143ZET1G","Transistor; BJT; PNP; Digital (Biased);"
+"R101","2k","44.0500","10.0500","270","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 2k2; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R102","2k","42.6500","10.0500","270","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 2k2; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R105","2k","14.5000","8.5000","360","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 2k2; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R106","15k","14.5000","7.1000","180","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 15k; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R107","2k","42.6500","7.1500","90","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 2k2; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R201","5k1","67.1000","1.6500","360","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 5k1; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R203","5k1","64.1000","1.6500","180","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 5k1; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R804","15k","53.3500","12.9000","360","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 15k; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R805","2k","56.6000","12.9000","360","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 2k2; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R901","15k","6.8500","2.7500","360","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 15k; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R907","2k","6.8500","4.1500","180","TopLayer","RES_0603_R","TBD","Resistor; Thick Film; 2k2; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"

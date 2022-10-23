@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=[01] Cover_page.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[01] Cover_page.SchDoc|FileName=[02] TOP.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[01] Cover_page.SchDoc|FileName=[03] CM4_PART1.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[01] Cover_page.SchDoc|FileName=[04] PWR.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[01] Cover_page.SchDoc|FileName=[05] PCB_Mech.SchDoc|SheetNumber=5

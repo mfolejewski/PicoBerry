@@ -1,0 +1,260 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 46f3598a-2312-464d-938a-6b7031ae10b2)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 139.7 64.77) (size 24.13 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62)
+    (property "Sheet name" "PWR" (id 0) (at 139.7 64.0584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[04] PWR.SchDoc.kicad_sch" (id 1) (at 139.7 95.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 90.17 64.77) (size 24.13 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6c79a9cd-fb14-4078-8d39-42e5a14de4d2)
+    (property "Sheet name" "CM4" (id 0) (at 90.17 64.0584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[03] CM4_PART1.SchDoc.kicad_sch" (id 1) (at 90.17 95.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 187.96 66.04) (size 21.59 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6cb976c4-268a-4aef-8409-ad204ec8af6f)
+    (property "Sheet name" "Mech" (id 0) (at 187.96 65.3284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "[05] PCB_Mech.SchDoc.kicad_sch" (id 1) (at 187.96 97.1046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2" (page "2"))
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62" (page "3"))
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f" (page "4"))
+  )
+
+  (symbol_instances
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/29195ea4-8218-44a1-b4bf-466bee0082e4"
+      (reference "#PWR0101") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/2e842263-c0ba-46fd-a760-6624d4c78278"
+      (reference "#PWR0102") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/a29f8df0-3fae-4edf-8d9c-bd5a875b13e3"
+      (reference "#PWR0103") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/3aaee4c4-dbf7-49a5-a620-9465d8cc3ae7"
+      (reference "#PWR0104") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/d692b5e6-71b2-4fa6-bc83-618add8d8fef"
+      (reference "#PWR0105") (unit 1) (value "+1V8") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/528fd7da-c9a6-40ae-9f1a-60f6a7f4d534"
+      (reference "#PWR0106") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/7de6564c-7ad6-4d57-a54c-8d2835ff5cdc"
+      (reference "#PWR0107") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/444b2eaf-241d-42e5-8717-27a83d099c5b"
+      (reference "#PWR0108") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/003c2200-0632-4808-a662-8ddd5d30c768"
+      (reference "#PWR0109") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/a5cd8da1-8f7f-4f80-bb23-0317de562222"
+      (reference "#PWR0110") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/b5071759-a4d7-4769-be02-251f23cd4454"
+      (reference "#PWR0111") (unit 1) (value "+1V8") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/658dad07-97fd-466c-8b49-21892ac96ea4"
+      (reference "#PWR0112") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/a5e521b9-814e-4853-a5ac-f158785c6269"
+      (reference "#PWR0113") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/4c8eb964-bdf4-44de-90e9-e2ab82dd5313"
+      (reference "#PWR0114") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/7e023245-2c2b-4e2b-bfb9-5d35176e88f2"
+      (reference "#PWR0115") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/dd6c35f3-ae45-4706-ad6f-8028797ca8e0"
+      (reference "#PWR0116") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/221bef83-3ea7-4d3f-adeb-53a8a07c6273"
+      (reference "#PWR0117") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/49575217-40b0-4890-8acf-12982cca52b5"
+      (reference "#PWR0118") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/e6d68f56-4a40-4849-b8d1-13d5ca292900"
+      (reference "#PWR0119") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/41b4f8c6-4973-4fc7-9118-d582bc7f31e7"
+      (reference "#PWR0120") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/9cbf35b8-f4d3-42a3-bb16-04ffd03fd8fd"
+      (reference "#PWR0121") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/2e0a9f64-1b78-4597-8d50-d12d2268a95a"
+      (reference "#PWR0122") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/ee4c6544-dcb2-4120-b150-5c4d1c49c47d"
+      (reference "#PWR0123") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/8d461b4d-62dc-488b-8977-3c95555f9343"
+      (reference "#PWR0124") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/305cc760-953e-4bfd-8d01-10e63de704eb"
+      (reference "#PWR0125") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/98601396-516b-4f99-b971-aae10874eaa3"
+      (reference "#PWR0126") (unit 1) (value "~") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/4eb78fcf-7f56-40a7-8796-9190989829e2"
+      (reference "#PWR0127") (unit 1) (value "~") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/077c7713-5f8a-46ad-9e1e-0a158b076dfa"
+      (reference "#PWR0128") (unit 1) (value "~") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/415e1f95-00fc-414f-b0b4-01c34224fbe9"
+      (reference "#PWR0129") (unit 1) (value "~") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/8edcf05f-b0d5-49a3-b916-fcd5f9b197b1"
+      (reference "#PWR0130") (unit 1) (value "~") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/11f13304-bd4b-4b91-bb72-2e84ab0b85a5"
+      (reference "#PWR0131") (unit 1) (value "~") (footprint "")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/407396c7-a5e2-4ecf-b616-5f9c7dafa52b"
+      (reference "C900") (unit 1) (value "100uF/6V3") (footprint "MirFol_db_local.DbLib:CAP_1206_R")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/70645270-a353-43c4-be7f-6de4c43aab8b"
+      (reference "FID950") (unit 1) (value "Fiducial") (footprint "FT_Footprints.PcbLib:PCB_FID_RND_100x300")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/18e3600f-2088-4659-97d0-c83b17047ead"
+      (reference "FID954") (unit 1) (value "Fiducial") (footprint "FT_Footprints.PcbLib:PCB_FID_RND_100x300")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/b4c71b9b-cad5-4be5-a07b-be9362f17a2f"
+      (reference "FID955") (unit 1) (value "Fiducial") (footprint "FT_Footprints.PcbLib:PCB_FID_RND_100x300")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/e43dbe34-ed17-4e35-a5c7-2f1679b3c415"
+      (reference "J100") (unit 1) (value "40pin (2x20pin)") (footprint "MirFol_db_local.DbLib:CON_HDR_P254_2X20M_STR")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/765684c2-53b3-4ef7-bd1b-7a4a73d87b76"
+      (reference "J103") (unit 1) (value "Mezzanine, 100pin, 3.0mm") (footprint "MirFol_db_local.DbLib:PCB_BLANK_COMP_SMD")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/7de887d4-da14-4b22-b372-4b04f388a01c"
+      (reference "J200") (unit 1) (value "U262-161N-4BVC11") (footprint "H:_!MirFol_lib_MirFol_lib.PcbLib_CON_XKB_U262-161N-4BVC11")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/c0c2eb8e-f6d1-4506-8e6b-4f995ad74c1f"
+      (reference "LED100") (unit 1) (value "Red") (footprint "MirFol_db_local.DbLib:LED_0805_RED_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/c7af8405-da2e-4a34-b9b8-518f342f8995"
+      (reference "LED101") (unit 1) (value "Green") (footprint "MirFol_db_local.DbLib:LED_0805_GRN_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/f345e52a-8e0a-425a-b438-90809dd3b799"
+      (reference "LED800") (unit 1) (value "Green") (footprint "MirFol_db_local.DbLib:LED_0805_GRN_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/1cb22080-0f59-4c18-a6e6-8685ef44ec53"
+      (reference "LED801") (unit 1) (value "Red") (footprint "MirFol_lib.PcbLib:LED_0805_RED_R")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/3493c959-87a4-4c52-b026-4808a6774531"
+      (reference "LED900") (unit 1) (value "Green") (footprint "MirFol_db_local.DbLib:LED_0805_GRN_R")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/78516991-6fde-4cb5-a03e-6a16e2b8674c"
+      (reference "MECH952") (unit 1) (value "M2.5, L = 3.0mm") (footprint "MirFol_lib.PcbLib:PCB_WRT_9774030151")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/9beabaab-ef77-45bf-a024-5b1095c39aa2"
+      (reference "MECH953") (unit 1) (value "M2.5, L = 3.0mm") (footprint "MirFol_lib.PcbLib:PCB_WRT_9774030151")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/2235fd0e-bbb7-4dcf-8575-21064ddca5b1"
+      (reference "MH950") (unit 1) (value "H270_C600") (footprint "E:_2020-11-04_MirFol_lib.PcbLib_PCB_MH_H270_C600")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/0985b497-b03a-4484-9da9-bc0206e0cfbd"
+      (reference "MH953") (unit 1) (value "H270_C600") (footprint "E:_2020-11-04_MirFol_lib.PcbLib_PCB_MH_H270_C600")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/fc83cd71-1198-4019-87a1-dc154bceead3"
+      (reference "MOD100") (unit 1) (value "RPi CM4 Module") (footprint "E:_CM4_PicoBerry_lib_MirFol_lib_Modules.PcbLib_MOD_RPI_CM4_P40_C300_CON1")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/a0d52767-051a-423c-a600-928281f27952"
+      (reference "MOD100") (unit 2) (value "RPi CM4 Module") (footprint "E:_CM4_PicoBerry_lib_MirFol_lib_Modules.PcbLib_MOD_RPI_CM4_P40_C300_CON1")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/0ba17a9b-d889-426c-b4fe-048bed6b6be8"
+      (reference "MOD100") (unit 3) (value "RPi CM4 Module") (footprint "E:_CM4_PicoBerry_lib_MirFol_lib_Modules.PcbLib_MOD_RPI_CM4_P40_C300_CON1")
+    )
+    (path "/6cb976c4-268a-4aef-8409-ad204ec8af6f/4205e181-09c1-4838-b4a1-364bb5008947"
+      (reference "PCB950") (unit 1) (value "PCB_LAYER_STACKUP") (footprint "E:_Biblioteki_MirFol_nowe_Pineberry_Lib.PcbLib_PCB_STACKUP-2L_A1")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/49d97c73-e37a-4154-9d0a-88037e40cc11"
+      (reference "Q902") (unit 1) (value "DTA143ZE") (footprint "MirFol_lib.PcbLib:PKG_SOT523_SC75_SOT416_P100_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/e502d1d5-04b0-4d4b-b5c3-8c52d09668e7"
+      (reference "R101") (unit 1) (value "2k") (footprint "MirFol_db_local.DbLib:RES_0603_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/7afa54c4-2181-41d3-81f7-39efc497ecae"
+      (reference "R102") (unit 1) (value "2k") (footprint "MirFol_db_local.DbLib:RES_0603_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/f447e585-df78-4239-b8cb-4653b3837bb1"
+      (reference "R105") (unit 1) (value "2k") (footprint "H:_!MirFol_lib_MirFol_db_local.DbLib_RESISTOR$_RES_0603_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/e7d81bce-286e-41e4-9181-3511e9c0455e"
+      (reference "R106") (unit 1) (value "15k") (footprint "H:_!MirFol_lib_MirFol_db_local.DbLib_RESISTOR$_RES_0603_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/cdfb661b-489b-4b76-99f4-62b92bb1ab18"
+      (reference "R107") (unit 1) (value "2k") (footprint "MirFol_db_local.DbLib:RES_0603_R")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/81e76c84-5e2c-4882-83ea-73a677842c28"
+      (reference "R201") (unit 1) (value "5k1") (footprint "H:_!MirFol_lib_MirFol_db_local.DbLib_RESISTOR$_RES_0603_R")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/ab8f9fbb-f2f4-4c37-a683-74ad001db8c6"
+      (reference "R203") (unit 1) (value "5k1") (footprint "H:_!MirFol_lib_MirFol_db_local.DbLib_RESISTOR$_RES_0603_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/7c5f3091-7791-43b3-8d50-43f6a72274c9"
+      (reference "R804") (unit 1) (value "15k") (footprint "MirFol_db_local.DbLib:RES_0603_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/a0e7a81b-2259-4f8d-8368-ba75f2004714"
+      (reference "R805") (unit 1) (value "2k") (footprint "MirFol_db_local.DbLib:RES_0603_R")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/5778953d-c3f1-4eab-88e0-47485d04ab27"
+      (reference "R901") (unit 1) (value "15k") (footprint "MirFol_db_local.DbLib:RES_0603_R")
+    )
+    (path "/4f2d6a8d-0e80-4d54-bbae-408c1fcd4a62/a873e942-d614-4558-aa34-f59b59912653"
+      (reference "R907") (unit 1) (value "2k") (footprint "MirFol_db_local.DbLib:RES_0603_R")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/6325c32f-c82a-4357-b022-f9c7e76f412e"
+      (reference "TP119") (unit 1) (value "ICT") (footprint "MirFol_lib.PcbLib:PCB_TP_ICT_100")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/a0dee8e6-f88a-4f05-aba0-bab3aafdf2bc"
+      (reference "TP120") (unit 1) (value "ICT") (footprint "MirFol_lib.PcbLib:PCB_TP_ICT_100")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/c9badf80-21f8-404a-b5df-18e98bffebf9"
+      (reference "TP914") (unit 1) (value "ICT") (footprint "MirFol_lib.PcbLib:PCB_TP_ICT_100")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/6316acb7-63a1-40e7-8695-2822d4a240b5"
+      (reference "TP915") (unit 1) (value "ICT") (footprint "MirFol_lib.PcbLib:PCB_TP_ICT_100")
+    )
+    (path "/6c79a9cd-fb14-4078-8d39-42e5a14de4d2/d1817a81-d444-4cd9-95f6-174ec9e2a60e"
+      (reference "TP916") (unit 1) (value "ICT") (footprint "MirFol_lib.PcbLib:PCB_TP_ICT_100")
+    )
+  )
+)

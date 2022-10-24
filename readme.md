@@ -14,9 +14,9 @@ PicoBerry is a tiny Raspberry Pi CM4 carrier board, which has technical specific
 You can connect to the CM4 module standard HAT boards, such as LCD screens (with SPI or DPI interfaces), audio DAC boards, RS232/485 or CAN interfaces, and many more...
 
 Here you can find:
-- \Photos: a few pictures of the assembled PCB boards and design
+- \photos: a few pictures of the assembled PCB boards and design
 - \manufacturing files: all the production files for ordering PCB and assembly at JLCPCB (Gerber files, Pick & Place, BOM, etc.)
-- \source_files: source files in KiCad and Altium Designer format
+- \source files: source files in KiCad and Altium Designer format
 
 ## License
 
@@ -32,7 +32,10 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 
 ## Photos
 
-![Screenshot](1.png)
-![Screenshot](2.png)
-![Screenshot](3.png)
-![Screenshot](4.png)
+![Screenshot](photos/board-picoberry.jpeg)
+![Screenshot](photos/picoberry1.png)
+![Screenshot](photos/picoberry2.png)
+![Screenshot](photos/1.png)
+![Screenshot](photos/2.png)
+![Screenshot](photos/3.png)
+![Screenshot](photos/4.png)

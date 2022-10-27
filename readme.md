@@ -45,7 +45,9 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 [hackaday.io](https://hackaday.io/project/182747-picoberry-tiny-cm4-carrier-board)
 
 ...and much more:
+
 https://twitter.com/search?q=picoberry&src=typed_query&f=live
+
 https://www.google.com/search?q=picoberry+cm4&oq=picoberry+cm4
 
 

@@ -30,6 +30,8 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 
 [hackaday.io](https://hackaday.io/project/182747-picoberry-tiny-cm4-carrier-board)
 
+[notebookcheck.com](https://www.notebookcheck.com/PicoBerry-Besonders-kompaktes-Carrier-Board-fuer-das-Raspberry-Pi-CM4-ist-Open-Source.663859.0.html) (german)
+
 ## Photos
 
 ![Screenshot](photos/board-picoberry.jpeg)

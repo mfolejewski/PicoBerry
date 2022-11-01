@@ -28,7 +28,7 @@ Project has been certified as Open Source Hardware by the Open Source Hardware A
 
 UID is: PL000010
 
-![Screenshot](OSHW_PL000010.png)
+![Screenshot](OSHW_PL000010_small.png)
 
 https://certification.oshwa.org/pl000010.html
 

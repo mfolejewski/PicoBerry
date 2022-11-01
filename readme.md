@@ -24,6 +24,14 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 
 ![Screenshot](oshw_facts.png)
 
+Project has been certified as Open Source Hardware by the Open Source Hardware Association (OSHWA).
+
+UID is: PL000010
+
+![Screenshot](OSHW_PL000010.png)
+
+https://certification.oshwa.org/pl000010.html
+
 ## Press release:
 
 [Tom's Hardware](https://www.tomshardware.com/news/picoberry-raspberry-pi-4-compute-module-4-carrier-board)
@@ -33,6 +41,8 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 [NotebookCheck (EN)](https://www.notebookcheck.net/PicoBerry-Raspberry-Pi-Compute-Module-4-carrier-board-arrives-with-40-pin-GPIO-header-and-USB-Type-C-connectivity.664512.0.html)
 
 [NotebookCheck (DE)](https://www.notebookcheck.com/PicoBerry-Besonders-kompaktes-Carrier-Board-fuer-das-Raspberry-Pi-CM4-ist-Open-Source.663859.0.html)
+
+[NotebookCheck (PL)](https://www.notebookcheck.pl/PicoBerry-Raspberry-Plyta-nosna-Pi-Compute-Module-4-przybywa-z-40-pinowym-headerem-GPIO-i-lacznoscia-USB-Type-C.664668.0.html)
 
 [Elektroda.pl (PL)](https://www.elektroda.pl/rtvforum/topic3928796.html)
 
